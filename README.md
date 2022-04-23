@@ -20,4 +20,4 @@ Typical 6-node network
 
 # Paper
 [1] Z. Wang, D. Lin, T. Yu, G. Zeng, and Z. Pan, “Explicit Reliability Incorporated Switches Planning of Smart Distribution System with High Flexibility,” 
-accessed on April, 2022. [Online]. Available: https://github.com/ZiyaoWang100/PWRD.
+accessed on April, 2022. [Online]. Available: https://github.com/ZiyaoWang100/SwitchPlanning_Reliability.
