@@ -1,8 +1,8 @@
 # IJEPES_SwitchPlanning_Reliability
 
-This supplementary material provides supporting data and analysis for the paper **'Explicit Reliability Incorporated Switches Planning of Smart Distribution System with High Flexibility'**. The Excel file contains complete topological information for four test systems (39, 85, 137, and 417), while the Word document offers an in-depth discussion of fictitious power flow constraints, including their mathematical formulation and implementation details.
+This supplementary material provides supporting data and analysis for the paper **'Explicit Reliability Incorporated Switches Planning of Smart Distribution System with High Flexibility'**. The Excel file contains complete topological information for four test systems (39, 85, 137, and 417), while the PDF file offers an in-depth discussion of fictitious power flow constraints, including their mathematical formulation and implementation details.
 
-# Details of numberical analysis (excel file)
+# Details of numberical analysis (Excel file)
 * Different configuration
 * Detailed comparison between power flow constraint and no power flow constraint
 * Detialed calculation result of 37-node, 85-node, 137-node and 417-node case
@@ -10,7 +10,7 @@ This supplementary material provides supporting data and analysis for the paper 
 
 ![image](https://user-images.githubusercontent.com/93502916/141611396-e35de071-5e2b-44aa-9d72-aabef34b81de.png)
 
-# Appendix (Discussion on Reliability Assessment Model) (word file)
+# Appendix (Discussion on Reliability Assessment Model) (PDF file)
 * A.Detailed Illustration of Fictitious Power Flow Single-end and Double-end Propagation Constraints
 * B.Mathematical Model of 6-Node Network
 
