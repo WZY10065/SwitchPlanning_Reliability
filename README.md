@@ -1,6 +1,6 @@
 # IJEPES_SwitchPlanning_Reliability
 
-Due to the limitation of paper, this program is the auxiliary material of the paper **"Explicit Reliability Incorporated Switches Planning of Smart Distribution System with High Flexibility"**. The excel file contains the appendix of . The word file mainly contains a 6-node illustrative example and detailed disscussion of fictitious power flow constrains.
+This supplementary material provides supporting data and analysis for the paper **'Explicit Reliability Incorporated Switches Planning of Smart Distribution System with High Flexibility'**. The Excel file contains complete topological information for four test systems (Node 39, 85, 137, and 417), while the Word document offers an in-depth discussion of fictitious power flow constraints, including their mathematical formulation and implementation details.
 
 # Details of numberical analysis (excel file)
 * Different configuration
